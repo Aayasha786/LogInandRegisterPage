@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100%;
+  background: linear-gradient(135deg, #3a0d66 0%, #280943 90%); /* Deep purple background */
+  font-family: 'Arial', sans-serif;
+}

@@ -1,17 +1,17 @@
 
 
 import './App.css'
-import LoginSignup from './component/LoginSignup'
+import LogInForm from './compoents/LogInForm'
 
 function App() {
- 
+  
 
   return (
-    // <>
-    <LoginSignup/>
-
-      
-    // </>
+    <>
+  
+    <LogInForm/>
+    
+    </>
   )
 }
 
